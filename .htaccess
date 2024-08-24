@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^Home$ index.php [NC,L]
+RewriteRule ^house-shifting-services-in-guwahati$ household_shifting.php [NC,L]
+RewriteRule ^office-shifting-service-in-guwahati$ office.php [NC,L]
+RewriteRule ^bike-transport-service-in-guwahati$ bike.php [NC,L]
+RewriteRule ^car-transportation-services-in-guwahati$ car.php [NC,L]
+RewriteRule ^domestic-relocation-services-in-guwahati$ domestic.php [NC,L]
+RewriteRule ^loading-and-unloading-services-in-guwahati$ loading.php [NC,L]
